@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=Calculator
+Exec=qmlscene %U Calculator/Main.qml
+Icon=Calculator/Calculator.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

@@ -1,0 +1,16 @@
+{
+    "name": "calculator.mimecar",
+    "description": "description of Calculator",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Calculator",
+    "hooks": {
+        "Calculator": {
+            "apparmor": "Calculator/Calculator.apparmor",
+            "desktop":  "Calculator/Calculator.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Miguel Menéndez <mimecar@innerzaurus.com>",
+    "framework" : "ubuntu-sdk-15.04.6"
+}
+
