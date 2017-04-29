@@ -1,0 +1,5 @@
+Makefile
+*.tmp
+.bzr
+.git
+po

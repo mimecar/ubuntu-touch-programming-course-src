@@ -1,0 +1,8 @@
+Three simple steps to your final webapp:
+ - ensure the url in this file is correct in the WebApp.desktop
+ - replace the default WebApp.png with an 256x256 icon 
+ - build the package in a commandline terminal with "click build ." or on the Publish tab of the IDE with the Create package button
+ - publish the generated click package at https://myapps.developer.ubuntu.com/dev/click-apps/
+
+More details on http://developer.ubuntu.com/publish/webapp/
+

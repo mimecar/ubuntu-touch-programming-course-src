@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Ubuntu Touch Programming Course
+Comment=Ubuntu Touch Programming Course Web App
+Type=Application
+Icon=WebApp.png
+Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://mimecar.gitbooks.io/ubuntu-touch-programming-course/content/* https://mimecar.gitbooks.io/ubuntu-touch-programming-course/content/ %u
+Terminal=false
+X-Ubuntu-Touch=true

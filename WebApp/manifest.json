@@ -1,0 +1,16 @@
+{
+    "name": "curso.ubuntu.touch.mimecar",
+    "description": "Ubuntu Touch Programming Course",
+    "architecture": "all",
+    "title": "WebApp",
+    "hooks": {
+        "WebApp": {
+            "apparmor": "WebApp.apparmor",
+            "desktop":  "WebApp.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Miguel Menéndez <mimecar@innerzaurus.com>",
+    "framework" : "ubuntu-sdk-15.04.6"
+}
+
