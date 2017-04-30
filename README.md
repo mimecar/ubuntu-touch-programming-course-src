@@ -14,4 +14,4 @@ If you have any problems accessing the Telegram group you can send me a message 
 
 I hope you like the course.
 
-*Note: The programming course will continue regardless of the future of Ubuntu Touch.*
+**Note: The programming course will continue regardless of the future of Ubuntu Touch.**
