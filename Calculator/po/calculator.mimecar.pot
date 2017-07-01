@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-01 18:10+0000\n"
+"POT-Creation-Date: 2017-07-01 18:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/mimecar/Proyectos/GitHub/ubuntu-touch-programming-course-src/Calculator/Calculator/Main.qml:21
+#: /home/mimecar/Proyectos/GitHub/ubuntu-touch-programming-course-src/Calculator/Calculator/Main.qml:24
 #: /home/mimecar/Proyectos/GitHub/ubuntu-touch-programming-course-src/build-Calculator-UbuntuSDK_for_desktop_GCC_amd64_ubuntu_sdk_15_04-Debug/Calculator/Calculator.desktop.h:1
 msgid "Calculator"
 msgstr ""
