@@ -4,7 +4,7 @@ import Ubuntu.Components 1.3
 
 /*!
     \brief MainView with a Label and Button elements.
-                */
+                    */
 MainView {
     // objectName for functional testing purposes (autopilot-qt5)
     objectName: "mainView"
@@ -28,60 +28,92 @@ MainView {
 
         Grid {
 
-            anchors.top: pageHeader.bottom
+            anchors.bottom: parent.bottom
             spacing: 10
-            columns: 3
+            columns: 5
 
             // First row
-            Label {
+            Button {
                 text: "7"
             }
 
-            Label {
+            Button {
                 text: "8"
             }
 
-            Label {
+            Button {
                 text: "9"
             }
 
+            Button {
+                text: "DEL"
+            }
+
+            Button {
+                text: "AC"
+            }
+
             // Second row
-            Label {
+            Button {
                 text: "4"
             }
 
-            Label {
+            Button {
                 text: "5"
             }
 
-            Label {
+            Button {
                 text: "6"
             }
 
+            Button {
+                text: "*"
+            }
+
+            Button {
+                text: "/"
+            }
+
             // Third row
-            Label {
+            Button {
                 text: "1"
             }
 
-            Label {
+            Button {
                 text: "2"
             }
 
-            Label {
+            Button {
                 text: "3"
             }
 
+            Button {
+                text: "+"
+            }
+
+            Button {
+                text: "-"
+            }
+
             // Fourth row
-            Label {
+            Button {
                 text: "0"
             }
 
-            Label {
+            Button {
                 text: "."
             }
 
-            Label {
+            Button {
                 text: "EXP"
+            }
+
+            Button {
+                text: "ANS"
+            }
+
+            Button {
+                text: "="
             }
         }
     }
