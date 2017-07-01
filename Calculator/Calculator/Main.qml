@@ -4,7 +4,7 @@ import Ubuntu.Components 1.3
 
 /*!
     \brief MainView with a Label and Button elements.
-                    */
+                        */
 MainView {
     // objectName for functional testing purposes (autopilot-qt5)
     objectName: "mainView"
@@ -35,85 +35,105 @@ MainView {
             // First row
             Button {
                 text: "7"
+                color: UbuntuColors.graphite
             }
 
             Button {
                 text: "8"
+                color: UbuntuColors.graphite
             }
 
             Button {
                 text: "9"
+                color: UbuntuColors.graphite
             }
 
             Button {
                 text: "DEL"
+                color: UbuntuColors.red
             }
 
             Button {
                 text: "AC"
+                color: UbuntuColors.red
             }
 
             // Second row
             Button {
                 text: "4"
+                color: UbuntuColors.graphite
             }
 
             Button {
                 text: "5"
+                color: UbuntuColors.graphite
             }
 
             Button {
                 text: "6"
+                color: UbuntuColors.graphite
             }
 
             Button {
                 text: "*"
+                color: UbuntuColors.warmGrey
             }
 
             Button {
                 text: "/"
+                color: UbuntuColors.warmGrey
             }
 
             // Third row
             Button {
                 text: "1"
+                color: UbuntuColors.graphite
             }
 
             Button {
                 text: "2"
+                color: UbuntuColors.graphite
             }
 
             Button {
                 text: "3"
+                color: UbuntuColors.graphite
             }
 
             Button {
                 text: "+"
+                color: UbuntuColors.warmGrey
             }
 
             Button {
                 text: "-"
+                color: UbuntuColors.warmGrey
             }
 
             // Fourth row
             Button {
                 text: "0"
+                color: UbuntuColors.graphite
             }
 
             Button {
                 text: "."
+                color: UbuntuColors.graphite
             }
 
             Button {
                 text: "EXP"
+                color: UbuntuColors.graphite
             }
 
             Button {
                 text: "ANS"
+                color: UbuntuColors.graphite
             }
 
             Button {
                 text: "="
+                color: UbuntuColors.graphite
             }
         }
     }
