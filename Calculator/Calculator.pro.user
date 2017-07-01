@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.1.0, 2017-04-29T15:48:09. -->
+<!-- Written by QtCreator 4.1.0, 2017-07-01T17:17:42. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
-  <value type="QByteArray">{82d95824-b0f5-4ea6-bc60-9d1c0afc8802}</value>
+  <value type="QByteArray">{7a90a703-b063-4e33-8ece-1d5d3cae0cd7}</value>
  </data>
  <data>
   <variable>ProjectExplorer.Project.ActiveTarget</variable>
@@ -61,12 +61,12 @@
   <valuemap type="QVariantMap">
    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">UbuntuSDK for desktop (GCC amd64-ubuntu-sdk-15.04)</value>
    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">UbuntuSDK for desktop (GCC amd64-ubuntu-sdk-15.04)</value>
-   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">{5163baac-877e-4bf8-8c86-5ce2d82a98e9}</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">{fca75222-965d-469c-a0f2-a2d453acdd7b}</value>
    <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
    <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">-1</value>
    <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">0</value>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/mimecar/Proyectos/GitHub/ubuntu-touch-programming-course/build-Calculator-UbuntuSDK_for_desktop_GCC_amd64_ubuntu_sdk_15_04-Debug</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/mimecar/Proyectos/GitHub/ubuntu-touch-programming-course-src/build-Calculator-UbuntuSDK_for_desktop_GCC_amd64_ubuntu_sdk_15_04-Debug</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -126,7 +126,7 @@
     <value type="bool" key="Qt4ProjectManager.Qt4BuildConfiguration.UseShadowBuild">true</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.1">
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/mimecar/Proyectos/GitHub/ubuntu-touch-programming-course/build-Calculator-UbuntuSDK_for_desktop_GCC_amd64_ubuntu_sdk_15_04-Release</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/mimecar/Proyectos/GitHub/ubuntu-touch-programming-course-src/build-Calculator-UbuntuSDK_for_desktop_GCC_amd64_ubuntu_sdk_15_04-Release</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -186,7 +186,7 @@
     <value type="bool" key="Qt4ProjectManager.Qt4BuildConfiguration.UseShadowBuild">true</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.2">
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/mimecar/Proyectos/GitHub/ubuntu-touch-programming-course/build-Calculator-UbuntuSDK_for_desktop_GCC_amd64_ubuntu_sdk_15_04-Profile</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/mimecar/Proyectos/GitHub/ubuntu-touch-programming-course-src/build-Calculator-UbuntuSDK_for_desktop_GCC_amd64_ubuntu_sdk_15_04-Profile</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -309,14 +309,14 @@
  <data>
   <variable>ProjectExplorer.Project.Target.1</variable>
   <valuemap type="QVariantMap">
-   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Frieza (GCC armhf-ubuntu-sdk-15.04-device-armhf)</value>
-   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Frieza (GCC armhf-ubuntu-sdk-15.04-device-armhf)</value>
-   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">{3062fc16-d7b3-4cb0-90de-68659ba66de1}</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">UbuntuSDK for device-armhf (GCC armhf-ubuntu-sdk-15.04)</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">UbuntuSDK for device-armhf (GCC armhf-ubuntu-sdk-15.04)</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">{34600682-6d2f-4d57-80d2-125b7991e89c}</value>
    <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
    <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
    <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">0</value>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/mimecar/Proyectos/GitHub/ubuntu-touch-programming-course/build-Calculator-Frieza_GCC_armhf_ubuntu_sdk_15_04_device_armhf-Debug</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/mimecar/Proyectos/GitHub/ubuntu-touch-programming-course-src/build-Calculator-UbuntuSDK_for_device_armhf_GCC_armhf_ubuntu_sdk_15_04-Debug</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -376,7 +376,7 @@
     <value type="bool" key="Qt4ProjectManager.Qt4BuildConfiguration.UseShadowBuild">true</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.1">
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/mimecar/Proyectos/GitHub/ubuntu-touch-programming-course/build-Calculator-Frieza_GCC_armhf_ubuntu_sdk_15_04_device_armhf-Release</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/mimecar/Proyectos/GitHub/ubuntu-touch-programming-course-src/build-Calculator-UbuntuSDK_for_device_armhf_GCC_armhf_ubuntu_sdk_15_04-Release</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -436,7 +436,7 @@
     <value type="bool" key="Qt4ProjectManager.Qt4BuildConfiguration.UseShadowBuild">true</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.2">
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/mimecar/Proyectos/GitHub/ubuntu-touch-programming-course/build-Calculator-Frieza_GCC_armhf_ubuntu_sdk_15_04_device_armhf-Profile</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/mimecar/Proyectos/GitHub/ubuntu-touch-programming-course-src/build-Calculator-UbuntuSDK_for_device_armhf_GCC_armhf_ubuntu_sdk_15_04-Profile</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
