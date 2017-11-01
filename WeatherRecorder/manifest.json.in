@@ -1,0 +1,15 @@
+{
+    "name": "weatherrecorder.username",
+    "description": "a simple temperature recorder for your city created for QML course",
+    "architecture": "@CLICK_ARCH@",
+    "title": "WeatherRecorder",
+    "hooks": {
+        "WeatherRecorder": {
+            "apparmor": "WeatherRecorder/WeatherRecorder.apparmor",
+            "desktop": "WeatherRecorder/WeatherRecorder.desktop"
+        }
+    },
+    "version": "1.0",
+    "maintainer": "Firstname Surname <your@mail.com>",
+    "framework": "ubuntu-sdk-15.04.6-qml"
+}

@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-09 13:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/AppConfiguration.qml:19
+msgid "App Configuration"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/AppConfiguration.qml:47
+msgid "City:"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/AppConfiguration.qml:63
+msgid "Temperature Scale:"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/AppConfiguration.qml:68
+msgid "Fahrenheit"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/AppConfiguration.qml:68
+msgid "Celsius"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/AppConfiguration.qml:78
+msgid "Save"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/AppConfiguration.qml:87
+msgid "Done, operation executed successfully"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/AppConfiguration.qml:98
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/ConfirmDeleteDialog.qml:39
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/DataBaseEraserDialog.qml:35
+msgid "Close"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/ConfirmDeleteDialog.qml:14
+msgid "Remove Temperature value ?"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/ConfirmDeleteDialog.qml:14
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/DataBaseEraserDialog.qml:13
+msgid "(there is no restore)"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/ConfirmDeleteDialog.qml:50
+msgid "Operation executed, removed "
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/DataBaseEraserDialog.qml:13
+msgid "Remove ALL saved Temperatures ?"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/DataBaseEraserDialog.qml:46
+msgid "Done, succesfully removed "
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/Main.qml:32
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/Main.qml:88
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/build-WeatherRecorder-UbuntuSDK_for_device_armhf_16_06_GCC_armhf_ubuntu_sdk_16_04_6a73fb-Debug/WeatherRecorder/WeatherRecorder.desktop.h:1
+msgid "WeatherRecorder"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/Main.qml:44
+msgid "FATAL ERROR: Error creating the database"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/Main.qml:49
+msgid "Operation executed successfully"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/Main.qml:54
+msgid "FATAL ERROR: Invalid input value"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/Main.qml:59
+msgid "Value already inserted for the day: edit it"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/Main.qml:97
+msgid "About"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/Main.qml:160
+msgid "Insert temperature"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/Main.qml:183
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/Main.qml:380
+msgid "Temperature:"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/Main.qml:232
+msgid "Insert"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/Main.qml:267
+msgid "Search temperature"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/Main.qml:317
+msgid "Date:"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/Main.qml:339
+msgid "Search"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/Main.qml:363
+msgid "Temperature found"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/Main.qml:399
+msgid "Update"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/Main.qml:423
+msgid "Delete"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/OperationResultDialog.qml:14
+msgid "Operation Result"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/WeatherRecorder/WeatherRecorder/ProductInfoDialogue.qml:9
+msgid "Product Info"
+msgstr ""

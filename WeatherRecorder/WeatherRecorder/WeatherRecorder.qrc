@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>Storage.js</file>
+        <file>ValidationUtils.js</file>
+        <file>DateUtils.js</file>
+        <file>Settings.qml</file>
+        <file>AppConfiguration.qml</file>
+        <file>DataBaseEraserDialog.qml</file>
+        <file>temperature.png</file>
+        <file>search.png</file>
+        <file>ProductInfoDialogue.qml</file>
+        <file>OperationResultDialog.qml</file>
+        <file>ConfirmDeleteDialog.qml</file>
+    </qresource>
+</RCC>
