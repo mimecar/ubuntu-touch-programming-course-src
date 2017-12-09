@@ -1,0 +1,167 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-16 09:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/AppConfiguration.qml:19
+msgid "App Configuration"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/AppConfiguration.qml:47
+msgid "City:"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/AppConfiguration.qml:63
+msgid "Temperature Scale:"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/AppConfiguration.qml:68
+msgid "Fahrenheit"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/AppConfiguration.qml:68
+msgid "Celsius"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/AppConfiguration.qml:78
+msgid "Save"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/AppConfiguration.qml:87
+msgid "Done, operation executed successfully"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/AppConfiguration.qml:98
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/ConfirmDeleteDialog.qml:39
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/DataBaseEraserDialog.qml:35
+msgid "Close"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/ChartPage.qml:29
+msgid "Analytic page"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/ChartPage.qml:75
+msgid "Month:"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/ChartPage.qml:91
+msgid "Show Chart"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/ConfirmDeleteDialog.qml:14
+msgid "Remove Temperature value ?"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/ConfirmDeleteDialog.qml:14
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/DataBaseEraserDialog.qml:13
+msgid "(there is no restore)"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/ConfirmDeleteDialog.qml:50
+msgid "Operation executed, removed "
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/DataBaseEraserDialog.qml:13
+msgid "Remove ALL saved Temperatures ?"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/DataBaseEraserDialog.qml:46
+msgid "Done, succesfully removed "
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/Main.qml:32
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/build-WeatherRecorderChart-UbuntuSDK_for_desktop_GCC_amd64_ubuntu_sdk_15_04-Debug/WeatherRecorderChart/WeatherRecorderChart.desktop.h:1
+msgid "WeatherRecorderChart"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/Main.qml:46
+msgid "FATAL ERROR: Error creating the database"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/Main.qml:51
+msgid "Operation executed successfully"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/Main.qml:56
+msgid "FATAL ERROR: Invalid input value"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/Main.qml:61
+msgid "Value already inserted for the day: edit it"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/Main.qml:105
+msgid "WeatherRecorder"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/Main.qml:114
+msgid "About"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/Main.qml:178
+msgid "Insert temperature"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/Main.qml:201
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/Main.qml:400
+msgid "Temperature:"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/Main.qml:251
+msgid "Insert"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/Main.qml:286
+msgid "Search temperature"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/Main.qml:337
+msgid "Date:"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/Main.qml:359
+msgid "Search"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/Main.qml:383
+msgid "Temperature found"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/Main.qml:419
+msgid "Update"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/Main.qml:443
+msgid "Delete"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/Main.qml:474
+msgid "Analytic section"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/Main.qml:486
+msgid "Chart"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/OperationResultDialog.qml:14
+msgid "Operation Result"
+msgstr ""
+
+#: /home/fulvio/Dropbox/ubuntu-devel/QML_COURSE/Chapter_2_qml_chart/WeatherRecorderChart/WeatherRecorderChart/ProductInfoDialogue.qml:9
+msgid "Product Info"
+msgstr ""

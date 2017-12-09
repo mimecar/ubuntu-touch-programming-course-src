@@ -1,0 +1,15 @@
+{
+    "name": "weatherrecorderchart.username",
+    "description": "a temperature recorder for your city with chart support",
+    "architecture": "@CLICK_ARCH@",
+    "title": "WeatherRecorderChart",
+    "hooks": {
+        "WeatherRecorderChart": {
+            "apparmor": "WeatherRecorderChart/WeatherRecorderChart.apparmor",
+            "desktop": "WeatherRecorderChart/WeatherRecorderChart.desktop"
+        }
+    },
+    "version": "1.0",
+    "maintainer": "Firstname Surname <your@mail.com>",
+    "framework": "ubuntu-sdk-15.04.6-qml"
+}

@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>WeatherRecorderChart.png</file>
+        <file>ValidationUtils.js</file>
+        <file>temperature.png</file>
+        <file>Storage.js</file>
+        <file>Settings.qml</file>
+        <file>search.png</file>
+        <file>ProductInfoDialogue.qml</file>
+        <file>OperationResultDialog.qml</file>
+        <file>DateUtils.js</file>
+        <file>DataBaseEraserDialog.qml</file>
+        <file>ConfirmDeleteDialog.qml</file>
+        <file>AppConfiguration.qml</file>
+        <file>ChartPage.qml</file>
+        <file>QChart.js</file>
+        <file>ChartUtils.js</file>
+        <file>QChart.qml</file>
+    </qresource>
+</RCC>

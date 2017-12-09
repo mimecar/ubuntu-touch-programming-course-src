@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=WeatherRecorderChart
+Exec=qmlscene %U WeatherRecorderChart/Main.qml
+Icon=WeatherRecorderChart/WeatherRecorderChart.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
